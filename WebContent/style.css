@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+	background-color: #D3D3D3;
+	text-align: center;
+	
+}
+
+h1{
+	font-weight: bold;
+	text-align: center;
+	
+}
+div{
+	border: solid;
+	border-width: thick; 
+}
